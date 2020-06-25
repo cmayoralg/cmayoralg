@@ -1,0 +1,17 @@
+{
+"companyName": "CarlosMayoral",
+"productName": "Proyectopsicologia",
+"productVersion": "0.1",
+"dataUrl": "prueba.data.unityweb",
+"wasmCodeUrl": "prueba.wasm.code.unityweb",
+"wasmFrameworkUrl": "prueba.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "prueba.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
